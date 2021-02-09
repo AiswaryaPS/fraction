@@ -22,4 +22,6 @@ class Fraction {
   friend std::ostream& operator<<(const std::ostream&, const Fraction&);
 };
 
+
+
 #endif
