@@ -33,6 +33,7 @@ Fraction::Fraction(int numer,int deno):a_numerator(num),a_denominator(den)
  Fraction::Fraction(int val):a_numerator(val),a_denominator(val)
  {
 
+  
  }
  Fraction Fraction::operator+(const Fraction& ref)
  /**
