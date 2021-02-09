@@ -20,3 +20,5 @@ Fraction P1(1,10);
 EXPECT_EQ(0,P1.isSimplest());
 }
 }
+
+
